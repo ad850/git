@@ -1,5 +1,5 @@
 let obj={
     name:"Aditya",
     sname:"kota",
-    pin:"dev2"
+    pin:"i am in dev2"
 }
