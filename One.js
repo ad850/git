@@ -5,6 +5,3 @@ let obj={
     pincode:"324005Dev1"
 }
 
-let obj2={
-    
-}
