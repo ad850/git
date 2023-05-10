@@ -6,5 +6,8 @@ let obj={
 }
 
 let obj3={
+}
 
+let obj2={
+    
 }
