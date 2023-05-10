@@ -6,3 +6,4 @@ let obj={
 }
 
 const name="aditya"
+"kumar sharma"
