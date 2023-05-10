@@ -5,3 +5,4 @@ let obj={
     pincode:"324005Dev1"
 }
 
+const sname = "kalu"
