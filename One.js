@@ -7,3 +7,4 @@ let obj={
 
 const sname = "kalu"
 const name="aditya"
+const p = "p"
